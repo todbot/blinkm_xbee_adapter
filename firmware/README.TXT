@@ -1,1 +1,1 @@
-Firmware is the "seri2c" project.
+Firmware is from the "seri2c" project.
