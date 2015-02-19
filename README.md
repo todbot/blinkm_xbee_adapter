@@ -1,6 +1,7 @@
 BlinkM Xbee Adapter
 ===================
 
+<a href="https://www.flickr.com/photos/todbot/3248465479" title="BlinkM Xbee adapter by Tod Kurt, on Flickr"><img src="https://farm4.staticflickr.com/3393/3248465479_0780512a5d.jpg" width="500" height="405" alt="BlinkM Xbee adapter"></a>
 
 <a href="https://www.flickr.com/photos/todbot/3249284568" title="BlinkM Xbee adapter by Tod Kurt, on Flickr"><img src="https://farm4.staticflickr.com/3484/3249284568_82bc15940e.jpg" width="500" height="375" alt="BlinkM Xbee adapter"></a>
 
